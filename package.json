@@ -1,0 +1,25 @@
+{
+  "name": "release-it-s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaw-xu/release-it-s.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xaw-xu/release-it-s/issues"
+  },
+  "homepage": "https://github.com/Xaw-xu/release-it-s#readme",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
+    "git-cz": "^4.9.0",
+    "release-it": "^15.5.0"
+  }
+}
